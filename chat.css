@@ -1,0 +1,23 @@
+#dabody{
+    text-align: center;
+    background-color: rgb(249, 204, 255);
+    justify-content: center;
+}
+
+#container{
+    height: 200px;
+    margin-top: 200px;
+    margin-left: 350px;
+    margin-right: 350px;
+    justify-content: center;
+    background-color: rgb(228, 200, 255);
+    border-radius:20px;
+    border-width: 3px;
+    border-style: ridge;
+    border-color: blueviolet;
+    text-align: center;
+}
+
+#username{
+    width: 300px;
+}
